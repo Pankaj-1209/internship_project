@@ -1,0 +1,14 @@
+body {
+  background-image: url("1.jpg");
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.radius {
+  border-radius: 25px;
+  padding: 10px;
+  width: 200px;
+  height: 50px;
+}
